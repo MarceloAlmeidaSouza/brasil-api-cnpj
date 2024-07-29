@@ -60,7 +60,7 @@ Caso tenha utilizado algum framework CSS ou outras bibliotecas, siga as instruç
 
 **Opção 3: Testar no Play with Docker:**
 
-1. Acesse o site: [URL inválido removido](https://labs.play-with-docker.com/)
+1. Acesse o site: [Play with docker](https://labs.play-with-docker.com/)
 2. Crie um novo workspace.
 3. Puxe a imagem: `docker pull marceloalmeidadesouza/brasil-api-cnpj:latest`
 4. Execute o container: `docker run -p 8080:80 marceloalmeidadesouza/brasil-api-cnpj:latest`
@@ -84,18 +84,14 @@ Caso tenha utilizado algum framework CSS ou outras bibliotecas, siga as instruç
 
 Sinta-se à vontade para contribuir com este projeto, reportar bugs ou sugerir melhorias.
 
-**Licença:**
-
-[Insira aqui a licença escolhida para o seu projeto, por exemplo, MIT]
-
 **Autor:**
 
-[Marcelo Almeida]
-[tinitsapp@gmail.com]
+Marcelo Almeida
+tinitsapp@gmail.com
 
 **Data:**
 
-[29/07/2024]
+29/07/2024
 
 **Agradecimentos:**
 
@@ -108,11 +104,5 @@ Agradeço à BrasilAPI pela disponibilização da API para consulta de CNPJ.
 * **Docker:** A imagem Docker fornecida contém o projeto pré-configurado, facilitando a execução em diferentes ambientes.
 * **Play with Docker:** Uma ótima opção para testar a aplicação rapidamente sem a necessidade de instalar o Docker localmente.
 * **README Detalhado:** Este README fornece instruções claras e concisas, facilitando a utilização do projeto por outros desenvolvedores.
-
-**Personalização:**
-
-* **Estilos:** Adapte os estilos CSS para criar uma interface visual mais personalizada.
-* **Funcionalidades:** Adicione novas funcionalidades, como salvar as alterações em um banco de dados ou gerar relatórios.
-* **Bibliotecas:** Utilize outras bibliotecas e frameworks para adicionar mais recursos à sua aplicação.
 
 **Lembre-se de adaptar este README de acordo com as especificações do seu projeto e as tecnologias utilizadas.**
