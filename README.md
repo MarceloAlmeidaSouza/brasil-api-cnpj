@@ -16,7 +16,7 @@
 #### **1. Clonar o Repositório:**
 
 ```bash
-git clone https://[seu_repositorio]/consulta-cnpj.git
+git clone https://github.com/MarceloAlmeidaSouza/brasil-api-cnpj.git
 ```
 
 #### **2. Instalar Dependências (se houver):**
@@ -60,7 +60,7 @@ Caso tenha utilizado algum framework CSS ou outras bibliotecas, siga as instruç
 
 **Opção 3: Testar no Play with Docker:**
 
-1. Acesse o site: [URL inválido removido]
+1. Acesse o site: [URL inválido removido](https://labs.play-with-docker.com/)
 2. Crie um novo workspace.
 3. Puxe a imagem: `docker pull marceloalmeidadesouza/brasil-api-cnpj:latest`
 4. Execute o container: `docker run -p 8080:80 marceloalmeidadesouza/brasil-api-cnpj:latest`
